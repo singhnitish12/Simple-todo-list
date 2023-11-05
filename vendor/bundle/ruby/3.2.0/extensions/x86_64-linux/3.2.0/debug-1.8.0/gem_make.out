@@ -1,0 +1,19 @@
+current directory: /home/nitish/Downloads/taskify/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+/home/nitish/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/nitish/Downloads/taskify/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231105-94808-oh91fm sitelibdir\=./.gem.20231105-94808-oh91fm clean
+
+current directory: /home/nitish/Downloads/taskify/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231105-94808-oh91fm sitelibdir\=./.gem.20231105-94808-oh91fm
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/nitish/Downloads/taskify/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231105-94808-oh91fm sitelibdir\=./.gem.20231105-94808-oh91fm install
+/usr/bin/install -m 0755 debug.so ./.gem.20231105-94808-oh91fm/debug
+
+current directory: /home/nitish/Downloads/taskify/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231105-94808-oh91fm sitelibdir\=./.gem.20231105-94808-oh91fm clean
